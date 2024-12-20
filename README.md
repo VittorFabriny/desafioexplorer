@@ -1,1 +1,3 @@
 # desafioexplorer
+
+Esta aplicação está em desenvolvimento ...
